@@ -9,23 +9,22 @@ bibliography: main.bib
 
 ## 0 Introduction
 
-We write this chapter in reflection of teaching computing fundamentals in the
-humanities context in general, and more specifically, in the wake of teaching
+We write this chapter as a general reflection on teaching computing fundamentals in the
+humanities context, and more specifically in the wake of teaching
 two instances of **Computing Foundations for Human(s|ists)** at the Digital
 Humanities Summer Institute (DHSI), University of Victoria.[^ln-titlelink] This
-week-long course was intended for humanities-based researchers with no previous
-programming experience, and, as we wrote in the course description, for those
-who would like to understand how programs work by writing a few simple, but
-useful programs of their own.[^ln-courselink] The topics covered included
-working with files and folders at the command line, text stream manipulation
-with Bash Unix Shell, regular expressions, along with Python basics like native
+week-long course was intended for humanities researchers with no previous
+programming experience who wanted to learn how programs work by writing a few
+simple, useful programs of their own.[^ln-courselink] The topics covered included
+working with files and folders at the command line, text-stream manipulation
+with the Bash Unix Shell, regular expressions, and Python basics like native
 data types, variables, functions, and control structures. At the end of the
-course our students worked on their own and in small groups to create a small
-web scraper, an "essay grader," a comma separated value file manipulator, and a
-program that evaluated poetry for its measure of similarity to Byron.
+course, our students worked on their own and in small groups to create a small
+web scraper, an "essay grader," a comma-separated value file manipulator, and a
+program that evaluates poetry based on its measure of similarity to Byron's.
 
-Our aim in this chapter is not so much to recapitulate the experience of
-teaching (we would not have the space to do it here, in any case) but to reveal
+Our aim in this chapter is not to recapitulate the experience of
+teaching (we would not have the space to do it here, in any case), but to reveal
 some of the core principles that went into making the course, to talk about the
 rationale behind our teaching philosophy, and, more broadly, to suggest an
 approach to teaching programming in the humanities environment.
@@ -43,6 +42,8 @@ http://web.archive.org/web/20150614161609/https://github.com/denten-workshops/dh
 <!---
 JS: Should we say something about coding vs programming here?
 DT: I don't have strong feelings about the distinction. Up to you.
+PRP: Skipping for now---seems like the intro does what it needs to without the
+distinction
 --->
 
 ## 1 Critical Computing in the Humanities, Core Principles
